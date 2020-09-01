@@ -2,7 +2,7 @@
 
 ## Instructions
 
-git clone git@github.com:kqarlos/team-profile-generator.git
+git clone git@github.com:mark-speer/team-profile-generator.git
 npm instal
 node index.js
 
