@@ -3,7 +3,7 @@
 ## Instructions
 
 git clone git@github.com:mark-speer/team-profile-generator.git
-npm instal
+npm install
 node index.js
 
 ```
@@ -12,7 +12,7 @@ node index.js
 
 1. Working app
 
-![Site](workingappinapp.png)
+![Site](assets/workingappinapp.png)
 
 2. Example of a team profile generated
 
